@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ak1raTetsu
 - 👀 I’m interested in anything blender related!
-- 🌱 I’m currently learning python for blender / games
+- 🌱 I’m currently learning python for blender / geometry nodes / procedural
 - 💞️ I’m looking to collaborate on 3d design based projects
 - 📫 How to reach me 
 
